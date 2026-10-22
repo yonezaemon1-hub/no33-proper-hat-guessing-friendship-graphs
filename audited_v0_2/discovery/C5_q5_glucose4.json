@@ -1,0 +1,16 @@
+{
+  "n": 5,
+  "q": 5,
+  "solver": "glucose4",
+  "variables": 400,
+  "clauses": 1596,
+  "proper_colorings": 1020,
+  "status": "UNKNOWN",
+  "elapsed": 48.20232353899996,
+  "stats": {
+    "restarts": 491,
+    "conflicts": 194766,
+    "decisions": 274686,
+    "propagations": 6595710
+  }
+}

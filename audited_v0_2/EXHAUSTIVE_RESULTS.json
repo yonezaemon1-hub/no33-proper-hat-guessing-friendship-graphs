@@ -1,0 +1,72 @@
+{
+  "F1_q5": {
+    "status": "PASS",
+    "q": 5,
+    "petals": 1,
+    "legal_leaf_views": 40,
+    "local_pair_tests": 60,
+    "good_pair_edge_counts": [
+      10
+    ],
+    "outer_views": 20,
+    "survivor_count_histogram": {
+      "1": 20
+    },
+    "proper_colorings": 60,
+    "all_leaves_wrong": 20,
+    "failures": 0,
+    "correct_guess_count_histogram": {
+      "1": 60
+    }
+  },
+  "F2_q6": {
+    "status": "PASS",
+    "q": 6,
+    "petals": 2,
+    "legal_leaf_views": 120,
+    "local_pair_tests": 360,
+    "good_pair_edge_counts": [
+      12,
+      3
+    ],
+    "outer_views": 900,
+    "survivor_count_histogram": {
+      "0": 300,
+      "1": 600
+    },
+    "proper_colorings": 2400,
+    "all_leaves_wrong": 600,
+    "failures": 0,
+    "correct_guess_count_histogram": {
+      "1": 1624,
+      "2": 652,
+      "3": 124
+    }
+  },
+  "F3_q7": {
+    "status": "PASS",
+    "q": 7,
+    "petals": 3,
+    "legal_leaf_views": 252,
+    "local_pair_tests": 1260,
+    "good_pair_edge_counts": [
+      7,
+      7,
+      7
+    ],
+    "outer_views": 74088,
+    "survivor_count_histogram": {
+      "0": 33264,
+      "1": 40824
+    },
+    "proper_colorings": 189000,
+    "all_leaves_wrong": 40824,
+    "failures": 0,
+    "correct_guess_count_histogram": {
+      "1": 100928,
+      "2": 67528,
+      "3": 17272,
+      "4": 3272
+    }
+  }
+}

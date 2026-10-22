@@ -1,0 +1,16 @@
+{
+  "n": 6,
+  "q": 5,
+  "solver": "maplechrono",
+  "variables": 480,
+  "clauses": 4791,
+  "proper_colorings": 4100,
+  "status": "UNKNOWN",
+  "elapsed": 45.01627467399999,
+  "stats": {
+    "restarts": 388,
+    "conflicts": 133253,
+    "decisions": 268543,
+    "propagations": 4032617
+  }
+}

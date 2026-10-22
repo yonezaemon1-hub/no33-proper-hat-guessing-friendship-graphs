@@ -1,0 +1,1 @@
+Optional discovery provenance. These scripts require the free python-sat package. They are not needed for final verification. Discovery used Python 3.12 with python-sat 1.9.dev17. UNKNOWN is not UNSAT. The root-level proof and verifiers require only the standard library.

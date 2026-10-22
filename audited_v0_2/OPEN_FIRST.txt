@@ -1,0 +1,17 @@
+No.33 audit bundle v0.2 - 23 October 2026
+
+Extract the entire ZIP. Start with READ_FIRST.md and AUDIT_RESPONSE_v0_2.md.
+Proof: PROOF.md. Primary references: REFERENCE_CHECK_v0_2.md.
+User-supplied report: audit/USER_SUPPLIED_AUDIT_20261023.md.
+
+Core proof and strategy tables are preserved; this revision updates
+framing, citations, provenance, and review status.
+SHA256SUMS.txt is the current checksum list.
+ORIGINAL_SHA256SUMS.txt belongs to the original v0.1 archive only.
+NOVELTY_AUDIT.md is the 22 October historical search memo.
+
+Run with Python 3.12 (standard library only):
+  python verify_exhaustive.py
+  python audit_bitmasks.py
+
+Human review PENDING. Novelty INCONCLUSIVE. GitHub/Zenodo release HOLD.

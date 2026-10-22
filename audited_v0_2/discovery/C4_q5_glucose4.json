@@ -1,0 +1,16 @@
+{
+  "n": 4,
+  "q": 5,
+  "solver": "glucose4",
+  "variables": 320,
+  "clauses": 721,
+  "proper_colorings": 260,
+  "status": "UNSAT",
+  "elapsed": 0.052978069000005235,
+  "stats": {
+    "restarts": 2,
+    "conflicts": 2772,
+    "decisions": 4116,
+    "propagations": 46871
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "graph": "hourglass",
+  "n": 5,
+  "q": 7,
+  "solver": "glucose4",
+  "variables": 840,
+  "clauses": 10248,
+  "pair_constraints": 8400,
+  "status": "UNKNOWN",
+  "elapsed": 45.02839772200002,
+  "stats": {
+    "restarts": 1901,
+    "conflicts": 926655,
+    "decisions": 1311725,
+    "propagations": 15617428
+  }
+}

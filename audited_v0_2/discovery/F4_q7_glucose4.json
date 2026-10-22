@@ -1,0 +1,16 @@
+{
+  "petals": 4,
+  "q": 7,
+  "solver": "glucose4",
+  "cyclic": false,
+  "variables": 1764,
+  "clauses": 5397,
+  "status": "UNKNOWN",
+  "elapsed": 45.15311881299999,
+  "stats": {
+    "restarts": 971,
+    "conflicts": 644899,
+    "decisions": 1503307,
+    "propagations": 12373671
+  }
+}

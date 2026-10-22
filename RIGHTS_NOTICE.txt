@@ -1,0 +1,4 @@
+Copyright (c) 2026 Ryutaro Yonezu / Yonezu Research Lab.
+All rights reserved. No general reuse license is granted.
+This is an unrefereed, AI-assisted preprint with the limitations disclosed in PUBLICATION_STATUS_20261023.md.
+Research inquiries: yonezaemon1+research@gmail.com

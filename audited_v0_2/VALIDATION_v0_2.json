@@ -1,0 +1,75 @@
+{
+  "revision": "v0.2",
+  "checked_date_JST": "2026-10-23",
+  "release": "HOLD",
+  "novelty": "INCONCLUSIVE",
+  "baseline_zip_sha256": "175f402d689a46806282955f440e2df41d2e1ef64643f1ee428bf45cf7267492",
+  "three_lemma_blocks_byte_equal": true,
+  "six_and_seven_color_construction_sections_byte_equal": true,
+  "family_formula_byte_equal": true,
+  "unchanged_computational_files_count": 25,
+  "unchanged_computational_files_sha256": {
+    "BITMASK_AUDIT_RESULTS.json": "997f70f9cb887ca17fbd7c6786d177f39cf0f526e1e4d887afbbb4ed52fe2d4c",
+    "EXHAUSTIVE_RESULTS.json": "78b1a6309e884e369d3948fd972411d53e6716521b997c83dd3d1f2bdd117f3b",
+    "audit_bitmasks.py": "846057eb8960f90d2d0496edbecdd0e509de0ad07d6d7acf32448bfa93928415",
+    "discovery/C4_q4_glucose4.json": "1064f29f8fe5fcd7cb4be8685fbdc34608c169e98d68a9619b02688a38bd9905",
+    "discovery/C4_q5_glucose4.json": "5f53dabd36d18b6fde30eced4032dec9a52fbb7014672369d301dd8cec52f355",
+    "discovery/C5_q5_glucose4.json": "0f087246ad8b2480dbf202927269de8629f7543d94e747ac9d4e7ccdbccb7837",
+    "discovery/C6_q5_maplechrono.json": "35f8a740b5cf581d1da3f35b217d3f493de4ce3cf4b8a16997b9dae5b2627b97",
+    "discovery/F1_q5_glucose4_cyclic.json": "0ea27e7534da48756a2d114e69c25f767b82e518f5db762f2176aa626b585ee8",
+    "discovery/F2_q6_glucose4_cyclic.json": "d181d7e605f2d26e32ee50e1bc4dd95fb5c004eb15231f622b3372a4b209a64c",
+    "discovery/F2_q6_glucose4_cyclic_symmetric.json": "931c57485327865d2e675bb25828886d2662d7047f7a12322ea1f423bdf5a376",
+    "discovery/F3_q7_glucose4.json": "8a9704c5178cfe554295ed2b401a93333200d34ab9c90997304e09a96ca0c415",
+    "discovery/F3_q7_glucose4_cyclic.json": "f8f02a50a29bdf714cad28ef26f2eb03dbd9163ba348f0bf3fe3c8c0e53c94f9",
+    "discovery/F4_q7_glucose4.json": "dc363a1b947477cc1942c815d71ad7619b730a8b3f9fd4e94ca728c48fd56156",
+    "discovery/README.txt": "814e21e1b59937d251ad007ed6217a08e71051620e595f8b142874e858d5e8c1",
+    "discovery/diamond_q6_glucose4.json": "7af815e15db856c64a2a0d2a6158c7bc9e2bcff8957903a2478e441d91628e2f",
+    "discovery/fan_q6_glucose4.json": "dd56f51b03515685f3a7c2a468414334a047f088c3b605697e66de79a327e3a2",
+    "discovery/fan_q7_glucose4.json": "8fe865e46aebbb53e3a8c0935337afbc3e563d3071a5bb62a958e42965cda59b",
+    "discovery/friendship_hats_sat.py": "072487b9b1d5e2f14508b0df94b0a544e8c9cc05878d74d793d49a7d5b459521",
+    "discovery/hourglass_q6_glucose4.json": "e07f8bb43296e4438848f242033509eb0789ad20d7e56e7df85ad1d1fd463951",
+    "discovery/hourglass_q7_glucose4.json": "4a2d1e842a9ddb59f9539646705f48e09f3c56390d9f0859b838c7162f17021f",
+    "discovery/proper_hats_sat.py": "19dc2d7f1a9eb393cb86f4d011686f9612521cb163514c67c57c14828a1e3dcc",
+    "discovery/universal_hats_sat.py": "e1524551dba9fda662168c045c43c5b47ff9ed6ccb0248bb7834bb1f16e3e090",
+    "discovery/wheel_q7_glucose4.json": "fbfba88040b3822c745c853685c98c4e5295fe81e3aea7eccc82ecf29e97cd59",
+    "verify_exhaustive.py": "e6dc9f226ca8d8b322775e42609d7834ba210eef61bef8b5c0853d638ee35556",
+    "witness.json": "b801b82e9975cc5cca4efa1d5cee3238c02676034be1704313b5ec890ff63513"
+  },
+  "prior_local_verifier_results_reused": true,
+  "local_external_reviewer_program_rerun": false,
+  "reported_external_solver_artifacts_supplied": false,
+  "new_reference_local_pair_checks": 420,
+  "reference_local_pair_failures": 0,
+  "general_bound_substitutions": [
+    {
+      "r": 2,
+      "n": 5,
+      "maximum_degree": 4,
+      "n_plus_chi_minus_one": 7,
+      "Kakatelis_bound": 9
+    },
+    {
+      "r": 3,
+      "n": 7,
+      "maximum_degree": 6,
+      "n_plus_chi_minus_one": 9,
+      "Kakatelis_bound": 13
+    }
+  ],
+  "changed_existing_files_excluding_new_manifest": [
+    "CLAIM_AUDIT.md",
+    "NOVELTY_AUDIT.md",
+    "OPEN_FIRST.txt",
+    "PRIOR_ART.md",
+    "PROOF.md",
+    "READ_FIRST.md",
+    "RUN_VERIFY.ps1"
+  ],
+  "new_files_before_validation": [
+    "AUDIT_RESPONSE_v0_2.md",
+    "CHANGELOG_v0_2.md",
+    "REFERENCE_CHECK_v0_2.md",
+    "audit/USER_SUPPLIED_AUDIT_20261023.md"
+  ],
+  "reference_check_scope": "Relevant primary passages of four formal references, checked by originating assistant; not independent full-text-equivalence review."
+}

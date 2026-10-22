@@ -1,0 +1,17 @@
+{
+  "graph": "wheel",
+  "n": 5,
+  "q": 7,
+  "solver": "glucose4",
+  "variables": 4200,
+  "clauses": 13188,
+  "pair_constraints": 5460,
+  "status": "UNKNOWN",
+  "elapsed": 45.06450560399992,
+  "stats": {
+    "restarts": 4500,
+    "conflicts": 537854,
+    "decisions": 5144437,
+    "propagations": 16528331
+  }
+}

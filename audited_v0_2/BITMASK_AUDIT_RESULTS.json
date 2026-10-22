@@ -1,0 +1,72 @@
+{
+  "F1_q5": {
+    "outer_views": 20,
+    "singleton": 20,
+    "empty": 0,
+    "ambiguous": 0
+  },
+  "F2_q6": {
+    "outer_views": 900,
+    "singleton": 600,
+    "empty": 300,
+    "ambiguous": 0
+  },
+  "F3_q7": {
+    "outer_views": 74088,
+    "singleton": 40824,
+    "empty": 33264,
+    "ambiguous": 0
+  },
+  "negative_control_remove_third_petal": {
+    "hub_color_pair": [
+      0,
+      3
+    ],
+    "leaf_pairs": [
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  "negative_control_legal_table_mutation": {
+    "difference": 1,
+    "old": 3,
+    "new": 2,
+    "counterexample": {
+      "hub_color_pair": [
+        0,
+        1
+      ],
+      "leaf_pairs": [
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ]
+    }
+  },
+  "upper_bound_arithmetic": {
+    "q8_pairs": 30,
+    "q8_four_event_capacity": 24,
+    "q7_pairs": 20,
+    "q7_four_event_capacity": 20,
+    "q7_max_degree": 3,
+    "q7_max_edges_per_petal": 10,
+    "two_petal_capacity": 20,
+    "hub_color_pairs": 21,
+    "note": "Arithmetic checks only; the universal quantifiers are proved in PROOF.md."
+  }
+}

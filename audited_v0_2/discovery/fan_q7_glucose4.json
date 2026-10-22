@@ -1,0 +1,17 @@
+{
+  "graph": "fan",
+  "n": 5,
+  "q": 7,
+  "solver": "glucose4",
+  "variables": 2520,
+  "clauses": 11508,
+  "pair_constraints": 6720,
+  "status": "UNKNOWN",
+  "elapsed": 45.04710189700006,
+  "stats": {
+    "restarts": 3087,
+    "conflicts": 346427,
+    "decisions": 3049548,
+    "propagations": 24383398
+  }
+}
