@@ -44,3 +44,13 @@ The public PDF changes publication-status wording and typesetting only; the math
 Research inquiries: yonezaemon1+research@gmail.com
 
 GitHub: https://github.com/yonezaemon1-hub/no33-proper-hat-guessing-friendship-graphs
+
+## Published record
+
+- [GitHub Release v0.2.0](https://github.com/yonezaemon1-hub/no33-proper-hat-guessing-friendship-graphs/releases/tag/v0.2.0).
+- [Zenodo](https://zenodo.org/records/23582118), DOI [10.5281/zenodo.23582118](https://doi.org/10.5281/zenodo.23582118). Publication / Preprint, version 0.2, All rights reserved.
+
+PDF SHA-256: `dc1e13fa6247268aa32d87b146c60d66f8031bb3fcedc14f57e063dcbac68be6`  
+Publication ZIP SHA-256: `55f08d724f72de2de5d65f5e272e6219753e670a9edf373e3e7a625c3c235035`
+
+Both Release assets and both Zenodo files were downloaded after publication and matched these canonical digests. The original audit ZIP remains unchanged. For the `README.md` entry in the frozen publication-wrapper manifest, use `ARCHIVE_PUBLICATION_README_v0_2.md`; this public root README adds the later DOI and links. All other listed original and publication files retain their archived bytes.
